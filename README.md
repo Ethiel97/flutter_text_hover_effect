@@ -4,5 +4,5 @@ A flutter app that shows how to implement a text hover effect
 
 ## Demo
 
-![Demo](demo.mp4)
+![Demo](demo.gif)
 
